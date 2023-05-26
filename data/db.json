@@ -1,0 +1,27 @@
+{
+    "coord": { "lon": 79.3, "lat": 19.95 },
+    "weather": [
+      { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 308.74,
+      "feels_like": 307.31,
+      "temp_min": 308.74,
+      "temp_max": 308.74,
+      "pressure": 1010,
+      "humidity": 23,
+      "sea_level": 1010,
+      "grnd_level": 989
+    },
+    "visibility": 10000,
+    "wind": { "speed": 5.49, "deg": 306, "gust": 7.31 },
+    "clouds": { "all": 0 },
+    "dt": 1685068458,
+    "sys": { "country": "IN", "sunrise": 1685059441, "sunset": 1685106952 },
+    "timezone": 19800,
+    "id": 1274693,
+    "name": "Chānda",
+    "cod": 200
+  }
+  
